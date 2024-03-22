@@ -832,7 +832,7 @@ GameObject:
   - component: {fileID: 1506634870}
   - component: {fileID: 1506634869}
   m_Layer: 0
-  m_Name: Cake
+  m_Name: testcake
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -961,7 +961,7 @@ GameObject:
   - component: {fileID: 1800610745}
   - component: {fileID: 1800610744}
   m_Layer: 0
-  m_Name: Bomb
+  m_Name: Bombtest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
