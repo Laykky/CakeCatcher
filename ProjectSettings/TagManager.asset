@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bomb
   - Cake
+  - Spawner
   layers:
   - Default
   - TransparentFX
