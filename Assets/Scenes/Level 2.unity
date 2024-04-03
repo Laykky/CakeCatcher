@@ -2337,6 +2337,36 @@ PrefabInstance:
       propertyPath: m_IsKinematic
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4118071528261602117, guid: c186ec7594043744cbb4420f41ff226c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.322
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118071528261602117, guid: c186ec7594043744cbb4420f41ff226c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.915
+      objectReference: {fileID: 0}
+    - target: {fileID: 4118071528261602117, guid: c186ec7594043744cbb4420f41ff226c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4609103287561144558, guid: c186ec7594043744cbb4420f41ff226c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.302
+      objectReference: {fileID: 0}
+    - target: {fileID: 4609103287561144558, guid: c186ec7594043744cbb4420f41ff226c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.861
+      objectReference: {fileID: 0}
+    - target: {fileID: 4609103287561144558, guid: c186ec7594043744cbb4420f41ff226c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5321405465724403373, guid: c186ec7594043744cbb4420f41ff226c,
         type: 3}
       propertyPath: m_IsActive
@@ -7739,7 +7769,7 @@ GameObject:
   - component: {fileID: 1645746818}
   m_Layer: 0
   m_Name: Spawner
-  m_TagString: Untagged
+  m_TagString: Spawner
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
