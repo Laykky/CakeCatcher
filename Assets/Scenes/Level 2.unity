@@ -1196,7 +1196,7 @@ RectTransform:
   m_GameObject: {fileID: 918623677}
   m_LocalRotation: {x: -0, y: -0, z: -0.0020885637, w: 0.9999978}
   m_LocalPosition: {x: 0, y: 0, z: -28}
-  m_LocalScale: {x: 0.49908075, y: 0.49908075, z: 0.49908075}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1189055352}
@@ -1204,7 +1204,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.239}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 115, y: -42}
+  m_AnchoredPosition: {x: 115, y: -84}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: -0.01, y: 0.5}
 --- !u!114 &918623679
@@ -1227,7 +1227,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9a052e2a3952a1a47a58664a8b288873, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b38a080f445146449ac9373e940a645f, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1273,7 +1273,7 @@ RectTransform:
   m_GameObject: {fileID: 980294917}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.60223, y: 0.60223, z: 0.60223}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1189055352}
@@ -1281,7 +1281,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -74, y: -32}
+  m_AnchoredPosition: {x: -117, y: -57}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &980294919
@@ -1319,7 +1319,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: New Text
+  m_text: "New \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1382,7 +1382,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -174.07056, y: 0, z: 0, w: -34.684753}
+  m_margin: {x: -59.913086, y: 0, z: 0, w: -34.684753}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -8120,7 +8120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   totalTime: 60
-  countdownText: {fileID: 0}
+  countdownText: {fileID: 980294920}
 --- !u!4 &2145804170
 Transform:
   m_ObjectHideFlags: 0
